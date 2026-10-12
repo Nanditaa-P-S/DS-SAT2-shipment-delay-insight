@@ -1,0 +1,16 @@
+route_name,distance_km,route_type,number_of_hubs
+Bengaluru-Coimbatore,376,Highway,1
+Coimbatore-Kochi,621,Highway,1
+Bengaluru-Chennai,684,Highway,2
+Hyderabad-Kochi,309,Highway,2
+Chennai-Kochi,228,Urban,1
+Coimbatore-Madurai,675,Highway,2
+Chennai-Hyderabad,719,Highway,3
+Hyderabad-Madurai,548,Highway,2
+Kochi-Madurai,608,Highway,2
+Chennai-Madurai,457,Mixed,2
+Chennai-Coimbatore,235,Highway,3
+Bengaluru-Hyderabad,745,Highway,2
+Coimbatore-Hyderabad,479,Mixed,1
+Bengaluru-Kochi,543,Urban,3
+Bengaluru-Madurai,390,Highway,2
